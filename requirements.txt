@@ -3,3 +3,4 @@ numpy
 ultralytics
 Pillow
 reportlab
+google-cloud-vision
